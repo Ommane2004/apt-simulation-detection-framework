@@ -1,0 +1,5 @@
+whoami
+powershell.exe
+powershell -EncodedCommand SQBtAG0AZQBkAGkAYQB0AGUAIAB0AGUAcwB0AA==
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Run /v Test /t REG_SZ /d "powershell.exe" /f
+ping google.com
