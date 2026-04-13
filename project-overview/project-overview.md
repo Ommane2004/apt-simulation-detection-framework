@@ -18,19 +18,15 @@ Visualizing threats using dashboards
 🧱 High-Level Architecture
 
 [Windows System + Sysmon]
-
           ↓
-          
 [Universal Forwarder]
-
           ↓
 [Splunk Server (Ubuntu)]
-
           ↓
 [Detection Rules]
-
           ↓
 [Alerts + Dashboards]
+
 🔍 What This Project Covers
 Attack simulation (PowerShell, CMD)
 Log collection using Sysmon
