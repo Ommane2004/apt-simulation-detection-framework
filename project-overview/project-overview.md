@@ -16,13 +16,19 @@ Centralizing logs using Splunk
 Creating detection rules for suspicious activity
 Visualizing threats using dashboards
 🧱 High-Level Architecture
+
 [Windows System + Sysmon]
+
           ↓
+          
 [Universal Forwarder]
+
           ↓
 [Splunk Server (Ubuntu)]
+
           ↓
 [Detection Rules]
+
           ↓
 [Alerts + Dashboards]
 🔍 What This Project Covers
