@@ -1,0 +1,2 @@
+# Create registry run key (safe example)
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Run /v Test /t REG_SZ /d "calc.exe"
