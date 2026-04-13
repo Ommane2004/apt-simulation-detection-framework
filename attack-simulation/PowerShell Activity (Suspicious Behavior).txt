@@ -1,0 +1,5 @@
+# Encoded command simulation
+powershell -EncodedCommand SQBFAFgA
+
+# Download command simulation (safe test)
+powershell Invoke-WebRequest -Uri http://example.com
