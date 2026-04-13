@@ -1,0 +1,5 @@
+# Compress file
+tar -cvf test.tar test.txt
+
+# Copy file (simulate exfiltration)
+copy test.txt C:\Users\Public\
