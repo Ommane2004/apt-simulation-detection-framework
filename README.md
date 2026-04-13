@@ -30,6 +30,7 @@ Kali Linux (Attacker)
 Windows 10 (Victim)
 Ubuntu Server (Splunk Server)
 Universal Forwarder + Sysmon
+
 🏗️ Lab Setup
 Component	Technology
 Attacker Machine	Kali Linux
