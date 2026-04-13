@@ -122,5 +122,5 @@ All simulations were performed in a controlled lab environment.
 
 👨‍💻 Author
 
-CyberKing 👑
-Aspiring Cybersecurity Analyst | SOC Enthusiast | Future Red Teamer
+Om Mane 👑
+Aspiring Cybersecurity Analyst | SOC Enthusiast |
