@@ -1,0 +1,11 @@
+# PowerShell detection
+index=main EventCode=1 CommandLine="*powershell*"
+
+# Network activity
+index=main EventCode=3
+
+# Registry persistence
+index=main EventCode=13
+
+# File creation
+index=main EventCode=11
