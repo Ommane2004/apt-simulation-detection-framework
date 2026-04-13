@@ -1,0 +1,8 @@
+# Open command prompt
+cmd.exe
+
+# Open PowerShell
+powershell.exe
+
+# Run PowerShell with bypass (simulation)
+powershell -ExecutionPolicy Bypass
