@@ -1,0 +1,5 @@
+# Test outbound connection
+ping google.com
+
+# Curl request
+curl http://google.com
