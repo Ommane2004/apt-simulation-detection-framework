@@ -1,0 +1,5 @@
+# Launch notepad (simulate process spawn)
+notepad.exe
+
+# Launch calculator
+calc.exe
