@@ -32,12 +32,14 @@ Ubuntu Server (Splunk Server)
 Universal Forwarder + Sysmon
 
 🏗️ Lab Setup
+
 Component	Technology
 Attacker Machine	Kali Linux
 Target Machine	Windows 10
 SIEM Server	Ubuntu + Splunk
 Log Collection	Sysmon + Splunk Forwarder
 Virtualization	VMware
+
 ⚙️ Installation & Setup
 1️⃣ Install Splunk Server (Ubuntu)
 sudo /opt/splunk/bin/splunk start
