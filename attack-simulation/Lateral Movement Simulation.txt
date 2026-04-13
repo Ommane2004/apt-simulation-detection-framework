@@ -1,0 +1,5 @@
+# Remote connection simulation
+mstsc
+
+# Network share access
+net use
