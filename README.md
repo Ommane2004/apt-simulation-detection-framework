@@ -21,9 +21,8 @@ Generate alerts for suspicious behavior
 Map activities to MITRE ATT&CK framework
 🧠 Architecture
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/afa1e35c-c9b8-4611-ac51-1894b8a9461e" />
 
-
-![Architecture](./architecture.png)
 
 💡 Diagram includes:
 
