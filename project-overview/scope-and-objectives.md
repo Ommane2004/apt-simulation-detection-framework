@@ -1,4 +1,5 @@
 🎯 Scope and Objectives
+
 📌 Project Scope
 
 This project focuses on building a controlled cybersecurity lab environment to simulate attacker behavior and detect it using centralized logging and monitoring.
@@ -12,6 +13,7 @@ Simulating basic attack techniques (PowerShell, CMD)
 Creating detection rules using Splunk SPL queries
 Generating alerts for suspicious activity
 Building dashboards for visualization
+
 ⚙️ Environment Scope
 
 The project is implemented in a virtual lab environment:
@@ -20,6 +22,7 @@ VMware-based setup
 Windows 10 (Target Machine)
 Ubuntu Server (Splunk Server)
 Isolated network for safe testing
+
 ⚔️ Attack Simulation Scope
 
 The project simulates basic attacker behaviors such as:
