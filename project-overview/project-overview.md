@@ -74,8 +74,8 @@ SOC-style monitoring implemented
 Scope & Objectives → scope-and-objectives.md
 Defender Mindset → defender-first-mindset.md
 Ethical Considerations → ethical-and-legal-considerations.md
-📸 ADD THIS IMAGE (VERY IMPORTANT)
 
-Inside this file, add:
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8c4281b2-e147-4719-8930-61588e61d4da" />
 
-![Architecture](../diagrams/architecture.png)
+
+
