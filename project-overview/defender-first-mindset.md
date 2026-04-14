@@ -92,12 +92,8 @@ Continuously monitor and improve
 
 🔹Architecture
 
-[Attacker Action]
-        ↓
-[Log Generated]
-        ↓
-[Detection Rule]
-        ↓
-[Alert]
-        ↓
+[Attacker Action]        ↓
+[Log Generated]          ↓
+[Detection Rule]         ↓
+[Alert]                  ↓
 [Response]
