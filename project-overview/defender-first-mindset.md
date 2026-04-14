@@ -1,4 +1,5 @@
 🛡️ Defender-First Mindset
+
 📌 Introduction
 
 In modern cybersecurity, tools alone are not enough. Effective defense requires a strong defender mindset — the ability to think like an attacker while acting as a protector.
@@ -79,6 +80,7 @@ The approach used in this project reflects real-world SOC practices:
 Log collection → Analysis → Detection → Alerting
 Centralized monitoring
 Incident visibility
+
 💡 Key Takeaway
 
 A strong defender mindset means:
@@ -87,9 +89,8 @@ Always assume compromise is possible
 Focus on visibility and detection
 Analyze behavior, not just tools
 Continuously monitor and improve
-📸 OPTIONAL (BUT POWERFUL)
 
-Add this small diagram if you want to impress:
+🔹Architecture
 
 [Attacker Action]
         ↓
