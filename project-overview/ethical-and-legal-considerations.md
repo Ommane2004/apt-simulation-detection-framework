@@ -1,5 +1,6 @@
 
 ⚖️ Ethical and Legal Considerations
+
 📌 Introduction
 
 Cybersecurity projects involving attack simulation must be conducted responsibly.
