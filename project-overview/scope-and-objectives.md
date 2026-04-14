@@ -43,6 +43,7 @@ Monitoring Sysmon Event ID 1 (Process Creation)
 Monitoring Sysmon Event ID 3 (Network Connection)
 Detecting suspicious command-line activity
 Identifying PowerShell execution
+
 🚫 Limitations
 
 This project has the following limitations:
@@ -57,17 +58,21 @@ No integration with external threat intelligence
 To design and implement a real-time attack detection system using Splunk and Sysmon in a simulated environment.
 
 🎯 Secondary Objectives
+
 To understand how attackers execute commands
 To generate and analyze system logs
 To build detection rules using Splunk
 To create alerts for suspicious activities
 To visualize security events using dashboards
+
 🎯 Learning Objectives
+
 Gain hands-on experience with SIEM (Splunk)
 Understand log-based detection techniques
 Learn Sysmon configuration and usage
 Develop a SOC analyst mindset
 Map attacker behavior to detection rules
+
 🎯 Outcome Objectives
 
 By completing this project:
