@@ -92,9 +92,10 @@ Process creation tracking
 Network connections visualization
 Alert monitoring panel
 
-👉 Add screenshot:
 
-![Dashboard](./dashboard.png)
+<img width="1718" height="938" alt="Windows 10 x64-2026-04-14-22-17-06" src="https://github.com/user-attachments/assets/b9e01072-ad70-4fb9-8d28-375d3e7ea695" />
+
+
 🧪 Attack Scenario
 User executes PowerShell command
 Suspicious process created
