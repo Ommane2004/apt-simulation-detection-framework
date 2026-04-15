@@ -52,7 +52,9 @@ Limited to a lab environment (not production-level SOC)
 Focuses on basic attack detection only
 No automated incident response implemented
 No integration with external threat intelligence
+
 🎯 Objectives
+
 🎯 Primary Objective
 
 To design and implement a real-time attack detection system using Splunk and Sysmon in a simulated environment.
