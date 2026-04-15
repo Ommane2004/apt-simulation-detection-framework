@@ -1,1 +1,31 @@
+Successful Login:
 
+EventCode=4624
+AccountName=Administrator
+LogonType=2
+IpAddress=192.168.42.10
+WorkstationName=WIN10
+Status=Success
+
+
+
+
+
+
+And failed login example:
+
+EventCode=4625
+AccountName=admin
+LogonType=3
+IpAddress=192.168.42.20
+FailureReason=Unknown user name or bad password
+Status=Failed
+
+
+
+
+
+🔹4624 = Successful login
+🔹4625 = Failed login
+🔹4634 = Logoff
+🔹4648 = Logon using explicit credentials
